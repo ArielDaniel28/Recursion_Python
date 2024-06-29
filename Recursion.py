@@ -1,10 +1,3 @@
-#################################################################
-# FILE : ex7.py
-# WRITER : Ariel Daniel , arieldaniel28 , 208500710
-# EXERCISE : intro2cs ex7 2022C
-# STUDENTS I DISCUSSED THE EXERCISE WITH: Yarden Ashuah
-# WEB PAGES I USED: None
-#################################################################
 from typing import Any, List
 from ex7_helper import add, subtract_1, is_odd, divide_by_2, append_to_end
 
